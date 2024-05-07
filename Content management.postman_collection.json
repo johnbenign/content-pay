@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "d49aaffd-c272-4c7e-b319-a56c8682d1e3",
+		"name": "Content management",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14003162"
+	},
+	"item": [
+		{
+			"name": "Post Content",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Buy Content",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
